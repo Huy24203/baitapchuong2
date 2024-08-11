@@ -1,0 +1,9 @@
+﻿  BT_Trang70.cpp
+D:\Hoc\Hoc\HK2\KTLT\BaiTapChuong2\BT_Trang70\BT_Trang70\BT_Trang70.cpp(33,54): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Hoc\Hoc\HK2\KTLT\BaiTapChuong2\BT_Trang70\BT_Trang70\BT_Trang70.cpp(84,35): warning C4305: 'return': truncation from 'double' to 'float'
+D:\Hoc\Hoc\HK2\KTLT\BaiTapChuong2\BT_Trang70\BT_Trang70\BT_Trang70.cpp(85,35): warning C4305: 'return': truncation from 'double' to 'float'
+D:\Hoc\Hoc\HK2\KTLT\BaiTapChuong2\BT_Trang70\BT_Trang70\BT_Trang70.cpp(87,35): warning C4305: 'return': truncation from 'double' to 'float'
+D:\Hoc\Hoc\HK2\KTLT\BaiTapChuong2\BT_Trang70\BT_Trang70\BT_Trang70.cpp(88,35): warning C4305: 'return': truncation from 'double' to 'float'
+D:\Hoc\Hoc\HK2\KTLT\BaiTapChuong2\BT_Trang70\BT_Trang70\BT_Trang70.cpp(135,14): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Hoc\Hoc\HK2\KTLT\BaiTapChuong2\BT_Trang70\BT_Trang70\BT_Trang70.cpp(168,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  BT_Trang70.vcxproj -> D:\Hoc\Hoc\HK2\KTLT\BaiTapChuong2\BT_Trang70\Debug\BT_Trang70.exe
